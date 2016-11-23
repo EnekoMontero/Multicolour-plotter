@@ -33,7 +33,12 @@ Mi idea es que el diseño sea un STL en el que cada capa sea un color. Luego rea
 
 2. Montar el enganche del servo como se ve en las imágenes 3D.
 ![alt text](https://github.com/EnekoMontero/Multicolour-plotter/blob/master/Imagenes/montaje3d.JPG "Montaje 3D")
-![alt text](https://github.com/EnekoMontero/Multicolour-plotter/blob/master/Imagenes/montaje3d_2.JPG "Montje 3D 2")
+![alt text](https://github.com/EnekoMontero/Multicolour-plotter/blob/master/Imagenes/montaje3d_2.JPG "Montaje 3D 2")
 
-3. Atornillar el soporte de rotuladores, si tienes base caliente en los puntos (100,0) y (200,0) "mas o menos". Si no puedes usar una plancha de madera fina u otra cosa. Eso como prefieras.
+3. Atornillar el soporte de rotuladores, si tienes base caliente en los puntos (100,0) y (200,0) "mas o menos". Si no, puedes usar una plancha de madera fina u otra cosa. Eso como prefieras.
 
+##Licencia
+GPL license or Creative Commons Attribution-shareAlike (Copyleft)
+
+#Autor
+Eneko Montero
